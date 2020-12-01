@@ -1,8 +1,7 @@
-## Onlince Presence
+# Onlince Presence
 
-You can use the [editor on GitHub](https://github.com/nmorrow-1111/nmorrow-1111.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Hello, my name is Nicholas Morrow and I am currently enrolled as a senior in Computer Sciences with a focus in Video Game Design and Development at the University of Texas A&M-Corpus Christi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
